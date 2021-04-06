@@ -16,11 +16,11 @@ The zip archives on the Releases page were created using the TerraGear and Terra
 Custom scenery for the Champaign (KCMI) and Bloomington (KBMI) areas, for the FlightGear Flight Simulator. This scenery includes:
 - The airports recommended as of October 2020 from the X-Plane Scenery Gateway
 - The area between the following coordinates: 
-  - min lat
-  - max lat 42.5
-  - min lon -
-  - max lon - 
-- Optional USGS orthophotos around major airports within the included area.
+  - min lat 40.0
+  - max lat 41.1
+  - min lon -88.0
+  - max lon -89.0 
+- Optional USGS orthophotos around major airports within the included area (KCMI, KBMI).
 - Updated NavData for some of the airports. It should be downloaded and installed with this custom scenery. The updated airports uses this updated data.
 
 ### NOTE: 
