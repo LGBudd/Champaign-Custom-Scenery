@@ -63,5 +63,5 @@ For example, create a directory called "KORD-KMKE" on your computer. Extract the
 ![KCMI](https://github.com/LGBudd/Champaign-Custom-Scenery/blob/main/Screenshots/KCMI.png)
 
 ### Central Illinois, Bloomington KBMI (orthophotos)
-![KBMI](https://github.com/LGBudd/Champaign-Custom-Scenery/blob/main/Screenshots/KCMI.png)
+![KBMI](https://github.com/LGBudd/Champaign-Custom-Scenery/blob/main/Screenshots/KBMI.png)
 
