@@ -1,7 +1,7 @@
 # Champaign-Custom-Scenery
 FlightGear NLCD Scenery for Champaign (KCMI) and Bloomington (KBMI) areas and northern Illinois
 
-## This site is Under Construction!
+## License
 
 This program is free software; you can redistribute it and/or modify it under the terms of the GNU General Public License as published by the Free Software Foundation; either version 2 of the License, or (at your option) any later version.
 
@@ -9,7 +9,7 @@ This program is distributed in the hope that it will be useful, but WITHOUT ANY 
 
 You should have received a copy of the GNU General Public License along with this program; if not, write to the Free Software Foundation, Inc., 51 Franklin Street, Fifth Floor, Boston, MA 02110-1301, USA.
 
-The zip archives on the Releases page were created using the TerraGear and TerraGear-GUI programs developed by the FlightGear project. The git repository includes the source data. To download the resulting scenery, go to the Releases page and download the zip archives.
+The zip archives on the Releases page were created using the TerraGear and TerraGear-GUI programs developed by the FlightGear project. The git repository includes the source data.
 
 ## Chicago and Bloomington Areas Custom Scenery
 
@@ -20,8 +20,7 @@ Custom scenery for the Champaign (KCMI) and Bloomington (KBMI) areas, for the Fl
   - max lat 41.1
   - min lon -88.0
   - max lon -89.0 
-- Optional USGS orthophotos around major airports within the included area (KCMI, KBMI).
-- Updated NavData for some of the airports. It should be downloaded and installed with this custom scenery. The updated airports uses this updated data.
+- Optional USGS orthophotos around major airports within the included area (KCMI, KBMI). 
 
 ### NOTE: 
 This scenery is best when used together with "Chicago and Milwaukee" and "Oshkosh and UP" custom scenery. Use of these three custom sceneries together (KORD-KMKE-Custom-Scenery, Champaign-Custom-Scenery and NWI-UPM-Custom-Scenery) will minimize issues at the scenery borders. They also provide a signicant North-South flight area with decent scenery.
@@ -34,7 +33,7 @@ This scenery is best when used together with "Chicago and Milwaukee" and "Oshkos
 - Rivers and waterbodies: National Hydrography Dataset (NHD): https://www.usgs.gov/core-science-systems/ngp/national-hydrography
 - Buildings, roads, pylons, other objects: OpenStreetMap using osm2city: https://www.openstreetmap.org/ https://osm2city.readthedocs.io/en/latest/
 - FlightGear TerraSync objects
-- Orthophotos: USGS Orthophotos: https://earthexplorer.usgs.gov/
+- Orthophotos: USGS Orthophotos: https://earthexplorer.usgs.gov/  Color correction was done by an amateur.
 
 ### To Download
 
