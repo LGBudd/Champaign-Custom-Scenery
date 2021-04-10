@@ -57,28 +57,11 @@ For example, create a directory called "KORD-KMKE" on your computer. Extract the
  7) Make the selections you want to use for your next flight then click "Fly", as usual.
  8) Rendering Options enable OSM buildings, detailed roads and pylons under 
 
-```markdown
-Syntax highlighted code block
+## Screenshots
 
-# Header 1
-## Header 2
-### Header 3
+### Champaign Willard - University of Illinois KCMI (no orthophotos)
+![KCMI](https://github.com/LGBudd/Champaign-Custom-Scenery/blob/main/Screenshots/KCMI.png)
 
-- Bulleted
-- List
+### Central Illinois, Bloomington KBMI (orthophotos)
+![KBMI](
 
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/LGBudd/NLCD-Terrain/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
