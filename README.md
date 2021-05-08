@@ -37,7 +37,8 @@ This scenery is best when used together with "Chicago and Milwaukee" and "Oshkos
 
 ### To Download
 
-To download the custom scenery files, go to the Releases page and download the zip archives.
+To download the custom scenery files, go to the following link and download the following zip archives: Buildings.zip, Objects.zip, Pylons.zip, Roads.zip, Terrain.zip and (optional) Orthophotos.zip. You may also want to download materials and textures ???.zip.
+Note that 
 
 ## Installation
 
