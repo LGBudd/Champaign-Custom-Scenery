@@ -24,7 +24,7 @@ Custom scenery for the Champaign (KCMI) and Bloomington (KBMI) areas, for the Fl
 - Optional USGS orthophotos around major airports within the included area (KCMI, KBMI). 
 
 ### NOTE: 
-This scenery is best when used together with "Chicago and Milwaukee" and "Oshkosh and UP" custom scenery. Use of these three custom sceneries together (KORD-KMKE-Custom-Scenery, Champaign-Custom-Scenery and KOSH-KATW-KGRB_and_UP_Mich) will minimize issues at the scenery borders. They also provide a signicant North-South flight area with decent scenery.
+This scenery is best when used together with "Chicago and Milwaukee" and "Oshkosh and UP" custom scenery. Use of these three custom sceneries together (KORD-KMKE-Custom-Scenery, Champaign-Custom-Scenery and KOSH-KATW-KGRB_and_UP_Mich) will minimize issues at the scenery borders. They also provide a signicant North-South flight area with NLCD and optional photorealistic scenery.
 
 ### Data Sources
 
@@ -37,7 +37,7 @@ This scenery is best when used together with "Chicago and Milwaukee" and "Oshkos
 - Orthophotos: USGS Orthophotos: https://earthexplorer.usgs.gov/  Color correction was done by an amateur.
 
 ### To Download
-**Note** that the file ChampaignSourceCode.zip is quite large in size but is NOT NEEDED for the scenery, only for further development, should that be desired.
+**Note** that the file ChampaignSourceCode.zip is quite large in size but is NOT NEEDED for the scenery, only for further development should that be desired. It is not not needed unless you are a developer. 
 
 The Champaign custom scenery files are available for download at the following link https://drive.google.com/drive/folders/1z4q4tOZ4zvmcKGquuYXUBBVO6AJ_FdhA?usp=sharing. There you can download the following zip archives: Buildings.zip, Objects.zip, Pylons.zip, Roads.zip, Details.zip, Terrain.zip and (optionally) Orthophotos.zip. You may also download custom materials definitions and textures in the file Illinois-data.zip, which should help make the scenery more realistic.
 
