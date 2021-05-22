@@ -34,7 +34,7 @@ This scenery is best when used together with "Chicago and Milwaukee" and "Oshkos
 - Rivers and waterbodies: National Hydrography Dataset (NHD): https://www.usgs.gov/core-science-systems/ngp/national-hydrography
 - Buildings, roads, pylons, other objects: OpenStreetMap using osm2city: https://www.openstreetmap.org/ https://osm2city.readthedocs.io/en/latest/
 - FlightGear TerraSync objects
-- Orthophotos: USGS Orthophotos: https://earthexplorer.usgs.gov/  Color correction was done by an amateur.
+- Orthophotos: USGS Orthophotos: https://earthexplorer.usgs.gov/ Credit: U.S. Geological Survey. Color correction was done by an first-time amateur.
 
 ### To Download
 **Note** that the file ChampaignSourceCode.zip is quite large in size but is NOT NEEDED for the scenery, only for further development should that be desired. It is not not needed unless you are a developer. 
