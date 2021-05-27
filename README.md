@@ -21,7 +21,7 @@ Custom scenery for the Champaign (KCMI) and Bloomington (KBMI) areas, for the Fl
   - min lon -88.0
   - max lon -89.0 
 - Custom Material definitions and Textures for the area to make the land cover more realistic.
-- Custom OSM2City scenery.
+- Custom OSM2City scenery so it is at the correct elevation in the new scenery.
 - Optional USGS orthophotos around major airports within the included area (KCMI, KBMI). 
 - FlightGear Terrasync objects.
 
