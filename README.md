@@ -9,8 +9,6 @@ This program is distributed in the hope that it will be useful, but WITHOUT ANY 
 
 You should have received a copy of the GNU General Public License along with this program; if not, write to the Free Software Foundation, Inc., 51 Franklin Street, Fifth Floor, Boston, MA 02110-1301, USA.
 
-The zip archives on the Releases page were created using the TerraGear and TerraGear-GUI programs developed by the FlightGear project. The git repository includes the source data.
-
 ## Champaign and Bloomington Areas Custom Scenery
 
 Custom scenery for the Champaign (KCMI) and Bloomington (KBMI) areas, for the FlightGear Flight Simulator. This scenery includes:
@@ -37,6 +35,8 @@ This scenery is best when used together with "Chicago and Milwaukee" and "Oshkos
 - Buildings, roads, pylons, other objects: OpenStreetMap using osm2city: https://www.openstreetmap.org/ https://osm2city.readthedocs.io/en/latest/
 - FlightGear TerraSync objects
 - Orthophotos: USGS Orthophotos: https://earthexplorer.usgs.gov/ Credit: U.S. Geological Survey. Color correction done by a first-time amateur.
+
+The zip archives were created using the TerraGear and TerraGear-GUI programs developed by the FlightGear project. The file repository on Google Drive includes the source data.
 
 ### To Download
 **Note** that the file ChampaignSourceCode.zip is quite large in size but is NOT NEEDED for the scenery, only for further development should that be desired. It is not not needed unless you are a developer. 
