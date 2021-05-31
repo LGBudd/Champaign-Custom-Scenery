@@ -24,7 +24,7 @@ Custom scenery for the Champaign (KCMI) and Bloomington (KBMI) areas, for the Fl
 - FlightGear Terrasync objects.
 
 ### NOTE: 
-This scenery is best when used together with "Chicago and Milwaukee" and "Oshkosh and UP" custom scenery. Use of these three custom sceneries together (KORD-KMKE-Custom-Scenery, Champaign-Custom-Scenery and KOSH-KATW-KGRB_and_UP_Mich) will minimize issues at the scenery borders. They also provide a signicant North-South flight area with NLCD and optional photorealistic scenery.
+This scenery is best when used together with "Chicago and Milwaukee" and "Oshkosh and UP" custom scenery. Use of these three custom sceneries together (KORD-KMKE-Custom-Scenery, Champaign-Custom-Scenery and KOSH-KATW-KGRB_and_UP_Mich) will minimize issues at the scenery borders. They also provide a significant North-South flight area with NLCD and optional photorealistic scenery.
 
 ### Data Sources
 
